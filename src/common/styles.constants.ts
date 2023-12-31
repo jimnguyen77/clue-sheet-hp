@@ -38,7 +38,6 @@ export const mainStyle = {
   fontFamily: 'serif',
   justifyContent: 'center',
   lineHeight: '1.25',
-  minHeight: '100vh',
   userSelect: 'none',
 };
 
