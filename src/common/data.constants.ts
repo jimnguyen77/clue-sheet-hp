@@ -44,4 +44,4 @@ export enum Titles {
   WHO = 'LOCATION',
 }
 
-export const GitHubLink = 'https://github.com/jimnguyen77/clue-sheet';
+export const GitHubLink = 'https://github.com/jimnguyen77/clue-sheet-hp';
