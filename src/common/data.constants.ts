@@ -39,9 +39,9 @@ export enum NumBoxes {
 
 export enum Titles {
   PLAYERS = 'Players',
-  WHAT = 'SUSPECT',
-  WHERE = 'ITEM',
-  WHO = 'LOCATION',
+  WHAT = 'ITEM',
+  WHERE = 'LOCATION',
+  WHO = 'SUSPECT',
 }
 
 export const GitHubLink = 'https://github.com/jimnguyen77/clue-sheet-hp';
